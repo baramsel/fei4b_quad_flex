@@ -34,7 +34,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 8268 11693 portrait
 encoding utf-8
-Sheet 1 6
+Sheet 1 5
 Title ""
 Date ""
 Rev ""
@@ -934,12 +934,6 @@ F 3 "" H 1075 3900 59  0001 C CNN
 	1    1075 3900
 	-1   0    0    1   
 $EndComp
-$Sheet
-S 1625 10075 1675 975 
-U 58D5AD37
-F0 "connect" 59
-F1 "connect.sch" 59
-$EndSheet
 Connection ~ 1450 3900
 Text Notes 875  3750 0    59   ~ 0
 Low Pass HV filter
