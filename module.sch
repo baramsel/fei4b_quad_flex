@@ -35,10 +35,10 @@ EELAYER END
 $Descr A4 8268 11693 portrait
 encoding utf-8
 Sheet 1 5
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "FEI4B Quad Module"
+Date "2017-07-15"
+Rev "1.2"
+Comp "LBNL"
 Comment1 ""
 Comment2 ""
 Comment3 ""
